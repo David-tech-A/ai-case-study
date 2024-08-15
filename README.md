@@ -35,6 +35,7 @@ The AI Lab was officially launched in 2018, with the aim of centralizing BlackRo
 
 
 ## Business Activities
+> Questions.
 
 >* What specific problem is the company or project trying to solve?
 revolutionize investment management through advanced AI techniques that incorporates sentiment analysis. Addressing the challenge of processing vast amounts of financial data to generate actionable insights and optimize investment strategies.
@@ -53,6 +54,7 @@ The competitive advantage lies in our access to BlackRock's extensive financial 
 Risk Management: Using machine learning algorithms to identify and mitigate risks in portfolios. This includes detecting anomalies and predicting potential market downturns.
 Natural Language Processing (NLP): Analyzing vast amounts of unstructured data, such as news articles, financial reports, and social media posts, to extract valuable insights that can influence investment strategies.
 Algorithmic Trading: Developing algorithms that execute trades at optimal times and prices, minimizing costs and maximizing returns.
+
 2. Optimization and Stochastic Control
 Optimization and stochastic control are crucial for financial decision-making and managing uncertainties. The AI Labs focuses on:
 
@@ -60,6 +62,7 @@ Portfolio Optimization: Creating models that allocate assets in a way that maxim
 Dynamic Asset Allocation: Developing strategies that adjust asset allocations in response to changing market conditions. This helps in maintaining an optimal balance between risk and return.
 Stochastic Modeling: Using stochastic processes to model uncertainties in financial markets. This includes simulating various market scenarios to assess the impact on portfolios and investment strategies.
 Risk-Adjusted Performance: Designing metrics and models that evaluate the performance of investments while accounting for risk. This helps in identifying the most efficient investment opportunities.
+
 3. Decision Theory
 Decision theory enhances decision-making processes in various financial contexts. The AI Labs applies decision theory to:
 
@@ -67,6 +70,7 @@ Retirement Planning: Developing models that help clients achieve their retiremen
 Trading Strategies: Creating decision-making frameworks that guide trading activities. This involves analyzing market data, identifying trading opportunities, and executing trades based on predefined criteria.
 Behavioral Finance: Studying how psychological factors influence financial decisions. This helps in designing strategies that mitigate biases and improve decision-making.
 Scenario Analysis: Evaluating the impact of different economic and market scenarios on investment portfolios. This helps in preparing for various contingencies and making informed decisions.
+
 4. Hyper-Parameter Optimization
 Hyper-parameter optimization is essential for improving the performance of machine learning models. The AI Labs focuses on:
 
@@ -74,6 +78,7 @@ Automated Hyper-Parameter Tuning: Developing systems that automatically tune hyp
 Multi-Objective Optimization: Balancing multiple performance objectives, such as accuracy, speed, and interpretability, when tuning hyper-parameters. This ensures that models are not only accurate but also efficient and easy to understand.
 Scalability: Designing hyper-parameter optimization systems that can scale to handle large datasets and complex models. This involves parallelizing computations and optimizing resource usage.
 Robustness: Ensuring that models perform well across different datasets and market conditions. This involves testing models under various scenarios and fine-tuning hyper-parameters to achieve consistent performance.
+
 5. Financial Market Design
 Financial market design involves studying the impact of electronic trading and developing strategies to improve market efficiency. The AI Labs works on:
 
