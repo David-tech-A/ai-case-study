@@ -21,16 +21,17 @@ The AI Lab was officially launched in 2018, with the aim of centralizing BlackRo
   *Stephen Boyd is the Samsung Professor of Engineering and Professor of Electrical Engineering at Stanford University.*
 
 
->* How did the idea for the company (or project) come about?
-*The idea for the BlackRock Lab for Artificial Intelligence emerged from the company's recognition of the transformative potential of AI and machine learning in the financial sector.* *BlackRock aimed to leverage these technologies to enhance their investment processes, improve client outcomes, and solve complex problems throughout the firm.*
+ >* How did the idea for the company (or project) come about?
+  *The idea for the BlackRock Lab for Artificial Intelligence emerged from the company's recognition of the transformative potential of AI and machine learning in the financial sector.* 
+  *BlackRock aimed to leverage these technologies to enhance their investment processes, improve client outcomes, and solve complex problems throughout the firm.*
 
->*The lab was established in winter 2018 to accelerate these efforts and bring the benefits of AI to the entire firm and its clients. The initiative was driven by the exponential growth*
-*in data, advancements in computing power, and the need for innovative solutions in investment management.*
+ >*The lab was established in winter 2018 to accelerate these efforts and bring the benefits of AI to the entire firm and its clients. The initiative was driven by the exponential growth*
+  *in data, advancements in computing power, and the need for innovative solutions in investment management.*
 
 
->* How is the company funded? How much funding have they received?
-*The BlackRock Lab for Artificial Intelligence is funded internally by BlackRock as part of its broader investment in technology and innovation, There is no official information*
-*about the funding of this project within its parent company.*
+ >* How is the company funded? How much funding have they received?
+  *The BlackRock Lab for Artificial Intelligence is funded internally by BlackRock as part of its broader investment in technology and innovation, There is no official information*
+  *about the funding of this project within its parent company.*
 
 
 ## Business Activities
