@@ -5,11 +5,12 @@
 BlackRock Lab for Artificial Intelligence  
 
 * When was the company incorporated?
- The BlackRock Lab for Artificial Intelligence was established in February 2018.
- It’s located in Palo Alto, California, and focuses on leveraging AI to improve financial well-being and solve challenging problems throughout the firm.
+ '#'The BlackRock Lab for Artificial Intelligence was established in February 2018.
+ '#'It’s located in Palo Alto, California, and focuses on leveraging AI to improve financial well-being and solve challenging problems throughout the firm.
 
 * Who are the founders of the proyect?
-The BlackRock Lab for Artificial Intelligence is co-headed by **Rachel Schutt** and **Stephen Boyd**. Rachel Schutt is a Managing Director and Technical Fellow at BlackRock, while Stephen Boyd is the Samsung Professor of Engineering and Professor of Electrical Engineering at Stanford University.
+ '#'The BlackRock Lab for Artificial Intelligence is co-headed by **Rachel Schutt** and **Stephen Boyd**. Rachel Schutt is a Managing Director and Technical Fellow at BlackRock, while 
+ '#'Stephen Boyd is the Samsung Professor of Engineering and Professor of Electrical Engineering at Stanford University.
 
 
 * How did the idea for the company (or project) come about?
@@ -77,7 +78,7 @@ These technologies are appropriate as they allow for scalable, personalized solu
 
 
 
-
+'##'Resources
 
 (1) BlackRock AI Labs | BlackRock. https://www.blackrock.com/corporate/ai.
 (2) BlackRock is building a lab in California to research artificial .... https://www.verdict.co.uk/blackrock-building-new-ai-research-lab-california/.
