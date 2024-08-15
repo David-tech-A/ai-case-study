@@ -24,6 +24,57 @@ The BlackRock Lab for Artificial Intelligence is funded internally by BlackRock 
 about the funding of this project within its parent company.
 
 
+## Business Activities
+
+* What specific problem is the company or project trying to solve?
+
+revolutionize investment management through advanced AI techniques that incorporates sentiment analysis. Addressing the challenge of processing vast amounts of financial data to generate actionable insights and optimize investment strategies.
+
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+The primary customers are BlackRock's institutional clients, including pension funds, corporations, and governments. The market size is substantial, considering BlackRock manages over $10 trillion in assets.
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+The competitive advantage lies in our access to BlackRock's extensive financial data and the integration of our AI models with the Aladdin platform. This combination allows us to develop and deploy AI solutions at an unprecedented scale.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) We utilize a range of technologies, including deep learning frameworks like TensorFlow and PyTorch, as well as cloud computing platforms for scalable data processing. We're also exploring quantum computing for certain optimization problems.
+
+## Landscape
+
+* What field is the proyect in?
+In the intersection of artificial intelligence and financial technology (fintech).
+
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+Major trends in the last decade include the rise of machine learning in quantitative trading, the use of alternative data in investment decisions, and the increasing focus on AI for risk management and regulatory compliance. 
+* What are the other major companies in this field?
+  Other significant players in this space include Two Sigma, Renaissance Technologies, and D.E. Shaw
+
+## Results
+
+* What has been the business impact of this company so far?
+Our work has contributed to enhancing BlackRock's investment strategies and risk management capabilities. Our AI models have improved the accuracy of market predictions and portfolio optimization.
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+Key metrics in our field include prediction accuracy, portfolio performance, and computational efficiency. Benchmark the  models against traditional quantitative methods and continuously strive for improvement.
+* How is your company performing relative to competitors in the same field?
+-Fee Pressure: Like all asset managers, BlackRock is under pressure to reduce fees, particularly in passive investment products.
+-Competition in AI and Technology: While leading with Aladdin, BlackRock faces increasing competition as other firms invest heavily in AI and financial technology.
+-Regulatory Scrutiny: Due to its size and influence, BlackRock often faces more regulatory attention than some smaller competitors.
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Looking ahead, we see potential in developing AI-driven personalized investment solutions for individual investors. This could democratize access to sophisticated investment strategies traditionally reserved for institutional clients.
+
+* Why do you think that offering this product or service would benefit the company?
+This service would leverage our existing AI capabilities while expanding BlackRock's reach in the retail market. It would utilize natural language processing for client communication, reinforcement learning for personalized portfolio management, and federated learning to maintain client privacy.
+
+* What technologies would this additional product or service utilize?
+  As mentioned before NLP,  for client communication, reinforcement learning for personalized portfolio management,  and federated learning to maintain client privacy.
+
+* Why are these technologies appropriate for your solution?
+These technologies are appropriate as they allow for scalable, personalized solutions while addressing critical concerns like data privacy and user-friendly interfaces.
+
+
+
+
 
 (1) BlackRock AI Labs | BlackRock. https://www.blackrock.com/corporate/ai.
 (2) BlackRock is building a lab in California to research artificial .... https://www.verdict.co.uk/blackrock-building-new-ai-research-lab-california/.
