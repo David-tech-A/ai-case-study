@@ -1,8 +1,6 @@
-# ai-case-study
+# BlackRock Lab for Artificial Intelligence
 
 ## Overview and Origin
- * Name of proyect. 
-BlackRock Lab for Artificial Intelligence
 
 **Let's take and overview**
 The BlackRock Lab for Artificial Intelligence (AI Lab) is a pioneering initiative by BlackRock, the world’s largest asset manager, to integrate artificial intelligence into the financial sector. The AI Lab is at the forefront of innovation, leveraging cutting-edge AI technologies to enhance financial decision-making, optimize investment strategies, and improve client outcomes.
