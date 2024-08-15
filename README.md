@@ -18,7 +18,6 @@ The idea for the BlackRock Lab for Artificial Intelligence emerged from the comp
 The lab was established in winter 2018 to accelerate these efforts and bring the benefits of AI to the entire firm and its clients. The initiative was driven by the exponential growth in data, advancements in computing power, and the need for innovative solutions in investment management.
 
 
-
 * How is the company funded? How much funding have they received?
 The BlackRock Lab for Artificial Intelligence is funded internally by BlackRock as part of its broader investment in technology and innovation, There is no official information
 about the funding of this project within its parent company.
@@ -44,7 +43,8 @@ The competitive advantage lies in our access to BlackRock's extensive financial 
 In the intersection of artificial intelligence and financial technology (fintech).
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-Major trends in the last decade include the rise of machine learning in quantitative trading, the use of alternative data in investment decisions, and the increasing focus on AI for risk management and regulatory compliance. 
+Major trends in the last decade include the rise of machine learning in quantitative trading, the use of alternative data in investment decisions, and the increasing focus on AI for risk management and regulatory compliance.
+
 * What are the other major companies in this field?
   Other significant players in this space include Two Sigma, Renaissance Technologies, and D.E. Shaw
 
@@ -52,12 +52,15 @@ Major trends in the last decade include the rise of machine learning in quantita
 
 * What has been the business impact of this company so far?
 Our work has contributed to enhancing BlackRock's investment strategies and risk management capabilities. Our AI models have improved the accuracy of market predictions and portfolio optimization.
+
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Key metrics in our field include prediction accuracy, portfolio performance, and computational efficiency. Benchmark the  models against traditional quantitative methods and continuously strive for improvement.
+
 * How is your company performing relative to competitors in the same field?
 -Fee Pressure: Like all asset managers, BlackRock is under pressure to reduce fees, particularly in passive investment products.
 -Competition in AI and Technology: While leading with Aladdin, BlackRock faces increasing competition as other firms invest heavily in AI and financial technology.
 -Regulatory Scrutiny: Due to its size and influence, BlackRock often faces more regulatory attention than some smaller competitors.
+
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
